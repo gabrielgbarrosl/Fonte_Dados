@@ -6,6 +6,6 @@
 
 
 
-# Atividade 2 - Manipulação de dados Exccel.
+# Atividade 2 - Manipulação de dados Excel.
 <img width="1850" height="670" alt="Captura de tela 2025-09-19 221854" src="https://github.com/user-attachments/assets/4720b5e8-2a37-4a22-b2ac-f8b96a52a188" />
 [Atividade 2 - Banco de dados  1 -.xlsx](https://github.com/user-attachments/files/22437239/Atividade.2.-.Banco.de.dados.1.-.xlsx)
