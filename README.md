@@ -26,3 +26,12 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 # Atividade 3 - Introdução ao PowerBI
 [Dados completos.xlsm](https://github.com/user-attachments/files/23110273/Dados.completos.xlsm)
 <img width="1194" height="778" alt="image" src="https://github.com/user-attachments/assets/6d301913-5997-42ee-8dc8-3a81faa62b02" />
+
+
+
+# Atividade 4 - Modelagem de Dados PowerBI
+Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP, RJ, PE, MG e RS.
+
+[Bandeiras.xlsx](https://github.com/user-attachments/files/23138387/Bandeiras.xlsx)
+![PowerBI Valor FOB por UF](https://github.com/user-attachments/assets/1030bfa9-828e-404a-ab68-bcdf57c735c7)
+
