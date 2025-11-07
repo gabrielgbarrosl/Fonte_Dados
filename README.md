@@ -35,3 +35,8 @@ Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP,
 [Bandeiras.xlsx](https://github.com/user-attachments/files/23138387/Bandeiras.xlsx)
 ![PowerBI Valor FOB por UF](https://github.com/user-attachments/assets/1030bfa9-828e-404a-ab68-bcdf57c735c7)
 
+
+
+# Atividade 5 - Dados do Kaggle
+[Ice Cream 1 (1).xlsx](https://github.com/user-attachments/files/23406345/Ice.Cream.1.1.xlsx)
+<img width="955" height="762" alt="image" src="https://github.com/user-attachments/assets/0a2e2d24-e9c8-4683-9dbc-b1610a29d4ff" />
