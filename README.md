@@ -35,3 +35,12 @@ Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP,
 
 # Atividade 5 - Dados do Kaggle
 <img width="955" height="762" alt="image" src="https://github.com/user-attachments/assets/0a2e2d24-e9c8-4683-9dbc-b1610a29d4ff" />
+<img width="1198" height="634" alt="image" src="https://github.com/user-attachments/assets/0497eefa-f68b-4f62-bc17-ff25712651ab" />
+
+
+
+# Atividade 6 - Progressão Linear Colab e Excel
+<img width="838" height="819" alt="Captura de tela 2025-11-07 212347" src="https://github.com/user-attachments/assets/bb4d21f9-11a4-4b72-a12a-d37f321e2ef7" />
+<img width="1070" height="453" alt="Captura de tela 2025-11-07 210732" src="https://github.com/user-attachments/assets/de30b09a-7df8-4cbc-95d0-f6a413b9b2ea" />
+
+
