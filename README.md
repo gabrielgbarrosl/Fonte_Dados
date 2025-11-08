@@ -2,13 +2,11 @@
 # Aula de Fonte de Informação e Banco de Dados
 # Atividade: Apresentação em grupo; utilizamos o software PowerPoint.
 <img width="1750" height="1065" alt="image" src="https://github.com/user-attachments/assets/9156903b-87a4-4aaf-aae2-71eb2f13c912" />
-[Apresentação Banco de Dados (1).pptx](https://github.com/user-attachments/files/22437319/Apresentacao.Banco.de.Dados.1.pptx)
 
 
 
 # Atividade 2 - Manipulação de dados Excel.
 <img width="1850" height="670" alt="Captura de tela 2025-09-19 221854" src="https://github.com/user-attachments/assets/4720b5e8-2a37-4a22-b2ac-f8b96a52a188" />
-[Atividade 2 - Banco de dados  1 -.xlsx](https://github.com/user-attachments/files/22437239/Atividade.2.-.Banco.de.dados.1.-.xlsx)
 
 # Formulas Utilizadas.
 Na pergunta Nº 1 utilizamos a formula =MÁXIMOSES, para acharmos o maior valor, =CORRESP para encontrar a linha e =ÍNDICE para encontrar a cadeia produtiva.
@@ -24,7 +22,6 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 
 
 # Atividade 3 - Introdução ao PowerBI
-[Dados completos.xlsm](https://github.com/user-attachments/files/23110273/Dados.completos.xlsm)
 <img width="1194" height="778" alt="image" src="https://github.com/user-attachments/assets/6d301913-5997-42ee-8dc8-3a81faa62b02" />
 
 
@@ -32,11 +29,9 @@ Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =C
 # Atividade 4 - Modelagem de Dados PowerBI
 Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP, RJ, PE, MG e RS.
 
-[Bandeiras.xlsx](https://github.com/user-attachments/files/23138387/Bandeiras.xlsx)
 ![PowerBI Valor FOB por UF](https://github.com/user-attachments/assets/1030bfa9-828e-404a-ab68-bcdf57c735c7)
 
 
 
 # Atividade 5 - Dados do Kaggle
-[Ice Cream 1 (1).xlsx](https://github.com/user-attachments/files/23406345/Ice.Cream.1.1.xlsx)
 <img width="955" height="762" alt="image" src="https://github.com/user-attachments/assets/0a2e2d24-e9c8-4683-9dbc-b1610a29d4ff" />
