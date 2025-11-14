@@ -8,6 +8,9 @@
 # Atividade 2 - Manipulação de dados Excel.
 <img width="1850" height="670" alt="Captura de tela 2025-09-19 221854" src="https://github.com/user-attachments/assets/4720b5e8-2a37-4a22-b2ac-f8b96a52a188" />
 
+<img width="1768" height="229" alt="Captura de tela 2025-11-14 205438" src="https://github.com/user-attachments/assets/ee6ab667-9c72-4366-87a1-14b6e4d3f6a2" />
+
+
 # Formulas Utilizadas.
 Na pergunta Nº 1 utilizamos a formula =MÁXIMOSES, para acharmos o maior valor, =CORRESP para encontrar a linha e =ÍNDICE para encontrar a cadeia produtiva.
 
