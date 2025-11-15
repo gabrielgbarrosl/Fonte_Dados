@@ -42,7 +42,7 @@ Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP,
 
 
 
-# Atividade 6 - Progressão Linear Colab e Excel
+# Atividade 6 - Regressão Linear Colab e Excel
 <img width="838" height="819" alt="Captura de tela 2025-11-07 212347" src="https://github.com/user-attachments/assets/bb4d21f9-11a4-4b72-a12a-d37f321e2ef7" />
 <img width="1070" height="453" alt="Captura de tela 2025-11-07 210732" src="https://github.com/user-attachments/assets/de30b09a-7df8-4cbc-95d0-f6a413b9b2ea" />
 
