@@ -47,3 +47,7 @@ Estraímos os dados do Comex Stat de exportação do ano de 2025 dos estados SP,
 <img width="1070" height="453" alt="Captura de tela 2025-11-07 210732" src="https://github.com/user-attachments/assets/de30b09a-7df8-4cbc-95d0-f6a413b9b2ea" />
 
 
+
+# DashBoard da Prova
+https://github.com/user-attachments/assets/9b0dc45b-0882-4dea-a2af-3332086b2520
+
