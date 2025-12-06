@@ -11,16 +11,16 @@
 <img width="1768" height="229" alt="Captura de tela 2025-11-14 205438" src="https://github.com/user-attachments/assets/ee6ab667-9c72-4366-87a1-14b6e4d3f6a2" />
 
 
-# Formulas Utilizadas.
-Na pergunta Nº 1 utilizamos a formula =MÁXIMOSES, para acharmos o maior valor, =CORRESP para encontrar a linha e =ÍNDICE para encontrar a cadeia produtiva.
+# Fórmulas Utilizadas.
+Na pergunta Nº 1 utilizamos a fórmula =MÁXIMOSES, para acharmos o maior valor, =CORRESP para encontrar a linha e =ÍNDICE para encontrar a cadeia produtiva.
 
-Na pergunta Nº 2 utilizamos a formula =MÍNIMO para encontrar a menor remuneração no ano de 2022, utilizando também a filtragem dos dados.
+Na pergunta Nº 2 utilizamos a fórmula =MÍNIMO para encontrar a menor remuneração no ano de 2022, utilizando também a filtragem dos dados.
 
-Na pergunta Nº 3 utilizamos a formula =CONT.VALORES com filtragem de dados da cadeia produtiva para contar o numero de municípios.
+Na pergunta Nº 3 utilizamos a fórmula =CONT.VALORES com filtragem de dados da cadeia produtiva para contar o numero de municípios.
 
-Na pergunta N° 4 utilizamos a formula =MED com filtragem de dados da cadeia produtiva, município e ano para dar a média de remuneração.
+Na pergunta N° 4 utilizamos a fórmula =MED com filtragem de dados da cadeia produtiva, município e ano para dar a média de remuneração.
 
-Na pergunta N° 5 utilizamos a formula =MAXIMOSES para encontrar o maior VTI, =CORRESP para encontrar a linha e =ÍNDICE para encontrar o município correspondente.
+Na pergunta N° 5 utilizamos a fórmula =MAXIMOSES para encontrar o maior VTI, =CORRESP para encontrar a linha e =ÍNDICE para encontrar o município correspondente.
 
 
 
